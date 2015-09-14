@@ -24,7 +24,7 @@ It's not about how it should look in the end, it's about principles you should f
 3) Isolate the mess into small CSS chunks. The code should be structured in way that frontend guys quickly know where to find the issue. Then is for him really easy to locate the actuall issue and fix it.  
 
 
-## Costume elements as modules
+## Custome elements as modules
 
 * Use native elements inside costum elements, because they are generic.
 * Module: `app-header`, submodule `app-header--logo`
